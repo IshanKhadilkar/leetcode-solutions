@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -21,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
 ## Prefix Sum
