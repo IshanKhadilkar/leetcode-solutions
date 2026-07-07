@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
