@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -152,11 +153,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0217-contains-duplicate) |
