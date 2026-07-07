@@ -183,6 +183,7 @@
 | [0013-roman-to-integer](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
