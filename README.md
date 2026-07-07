@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -134,6 +135,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
