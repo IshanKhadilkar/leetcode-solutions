@@ -20,6 +20,7 @@
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
+| [1603-design-parking-system](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
