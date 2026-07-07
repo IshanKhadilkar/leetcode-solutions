@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
+| [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Design
 |  |
@@ -18,6 +19,7 @@
 | [0155-min-stack](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -64,4 +67,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0155-min-stack) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
