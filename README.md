@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
@@ -45,4 +47,16 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
