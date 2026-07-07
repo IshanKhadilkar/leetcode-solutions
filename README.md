@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0705-design-hashset](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -99,6 +102,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [1603-design-parking-system](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -129,6 +133,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
