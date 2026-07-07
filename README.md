@@ -122,6 +122,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
