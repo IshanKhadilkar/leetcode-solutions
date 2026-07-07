@@ -9,6 +9,7 @@
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1656-design-an-ordered-stream](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
@@ -129,6 +130,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
