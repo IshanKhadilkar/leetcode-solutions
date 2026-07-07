@@ -24,6 +24,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Depth-First Search
 |  |
@@ -99,6 +101,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
