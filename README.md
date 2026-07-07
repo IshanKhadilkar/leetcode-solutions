@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
@@ -71,6 +72,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
@@ -121,13 +123,19 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
