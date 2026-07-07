@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -125,6 +126,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
