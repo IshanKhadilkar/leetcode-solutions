@@ -98,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -118,6 +119,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
 | [0409-longest-palindrome](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/IshanKhadilkar/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
